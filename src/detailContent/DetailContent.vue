@@ -9,6 +9,9 @@
   </div>
 </template>
 <style>
+  img{
+    width: 100%;
+  }
   #wrapper .header{
     height: 150px;
     position: relative;
@@ -31,7 +34,7 @@
     right: 10%;
   }
   #wrapper .listDetail{
-    padding: 20px 20px 20px 60px;
+    padding: 20px;
   }
 </style>
 <script>
