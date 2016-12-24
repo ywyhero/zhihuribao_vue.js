@@ -4,7 +4,7 @@
       <sidebar class="clearfix" :listIsClick= 'listIsClick' @on-list-is-click="onListIsClick"></sidebar>
       <div class="rightSide clearfix">
         <span class="showLeft glyphicon glyphicon-list" @click="isShow" v-show="!this.$router.currentRoute.params.id"></span>
-        <span class="showLeft glyphicon glyphicon-chevron-left" @click="isPrev" v-show="this.$router.currentRoute.params.id"></span>
+        <span class="showLeft glyphicon glyphicon-chevron-left" style="left: -3px" @click="isPrev" v-show="this.$router.currentRoute.params.id"></span>
         <router-view transition="fade"ransition-mode="out-in" keep-alive></router-view>
       </div>
     </div>
