@@ -9,7 +9,7 @@
   </div>
 </template>
 <style>
-  img{
+ .content img{
     width: 100%;
   }
   #wrapper .header{
