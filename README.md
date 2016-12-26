@@ -44,7 +44,7 @@
     }
   }
   
-  
+请参考：http://www.cnblogs.com/xxcanghai/p/6124699.html
 #下载项目后使用
 npm install
 #然后运行项目
