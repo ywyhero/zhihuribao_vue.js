@@ -43,7 +43,7 @@
       this.listIsCLick = val
     }
   }
-  
+  ![知乎日报](GIF1.gif)
 请参考：http://www.cnblogs.com/xxcanghai/p/6124699.html
 #下载项目后使用
 npm install
